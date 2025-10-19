@@ -1,0 +1,1 @@
+print("Shrey Shah \nHe/Him \nI don't have a favorite food, but my favorite cuisine is Indian cuisine. My favorite movie is Interstellar because of the visual and auditory aspects.")
